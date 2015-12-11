@@ -16,3 +16,9 @@
 [submodule "core/jquery-active-descendant"]
 	path = core/jquery-active-descendant
 	url = https://github.com/ianmcburnie/jquery-active-descendant.git
+[submodule "core/jquery-mouse-exit"]
+	path = core/jquery-mouse-exit
+	url = https://github.com/ianmcburnie/jquery-mouse-exit.git
+[submodule "core/jquery-prevent-document-scroll-keys"]
+	path = core/jquery-prevent-document-scroll-keys
+	url = https://github.com/ianmcburnie/jquery-prevent-document-scroll-keys.git
