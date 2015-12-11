@@ -13,3 +13,6 @@
 [submodule "core/jquery-focusable"]
 	path = core/jquery-focusable
 	url = https://github.com/ianmcburnie/jquery-focusable.git
+[submodule "core/jquery-active-descendant"]
+	path = core/jquery-active-descendant
+	url = https://github.com/ianmcburnie/jquery-active-descendant.git
