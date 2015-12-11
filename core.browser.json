@@ -2,6 +2,7 @@
     "dependencies": [
         "./core/jquery-next-id/jquery.nextid.js",
         "./core/jquery-focus-exit/jquery.focusexit.js",
-        "./core/jquery-common-keys/jquery.commonkeys.js"
+        "./core/jquery-common-keys/jquery.commonkeys.js",
+        "./core/jquery-roving-tabindex/jquery.rovingtabindex.js"
     ]
 }

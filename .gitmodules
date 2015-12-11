@@ -7,3 +7,6 @@
 [submodule "core/jquery-common-keys"]
 	path = core/jquery-common-keys
 	url = https://github.com/ianmcburnie/jquery-common-keys.git
+[submodule "core/jquery-roving-tabindex"]
+	path = core/jquery-roving-tabindex
+	url = https://github.com/ianmcburnie/jquery-roving-tabindex.git
