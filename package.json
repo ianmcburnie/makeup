@@ -1,0 +1,15 @@
+{
+  "name": "@ebay/makeup",
+  "version": "0.0.1",
+  "description": "Collection of essential jQuery plugins for accessibility",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmcburnie/makeup.git"
+  },
+  "author": "Ian McBurnie <ianmcburnie@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianmcburnie/makeup/issues"
+  },
+  "homepage": "https://github.com/ianmcburnie/makeup#readme"
+}

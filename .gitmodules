@@ -1,0 +1,6 @@
+[submodule "core/jquery-next-id"]
+	path = core/jquery-next-id
+	url = https://github.com/ianmcburnie/jquery-next-id.git
+[submodule "core/jquery-focus-exit"]
+	path = core/jquery-focus-exit
+	url = https://github.com/ianmcburnie/jquery-focus-exit.git

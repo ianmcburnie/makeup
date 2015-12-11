@@ -1,2 +1,3 @@
-# makeup
-Collection of essential jQuery plugins for accessibility
+# Makeup
+
+Collection of jQuery plugins for common accessibility patterns.
