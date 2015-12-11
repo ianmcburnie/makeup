@@ -10,3 +10,6 @@
 [submodule "core/jquery-roving-tabindex"]
 	path = core/jquery-roving-tabindex
 	url = https://github.com/ianmcburnie/jquery-roving-tabindex.git
+[submodule "core/jquery-focusable"]
+	path = core/jquery-focusable
+	url = https://github.com/ianmcburnie/jquery-focusable.git
