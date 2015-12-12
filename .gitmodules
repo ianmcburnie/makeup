@@ -28,3 +28,9 @@
 [submodule "core/jquery-screenreader-trap"]
 	path = core/jquery-screenreader-trap
 	url = https://github.com/ianmcburnie/jquery-screenreader-trap.git
+[submodule "flyout/jquery-button-flyout"]
+	path = flyout/jquery-button-flyout
+	url = https://github.com/ianmcburnie/jquery-button-flyout.git
+[submodule "flyout/jquery-link-flyout"]
+	path = flyout/jquery-link-flyout
+	url = https://github.com/ianmcburnie/jquery-link-flyout.git

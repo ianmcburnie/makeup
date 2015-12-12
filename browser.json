@@ -1,5 +1,6 @@
 {
     "dependencies": [
-        "./core.browser.json"
+        "./core.browser.json",
+        "./flyout.browser.json"
     ]
 }

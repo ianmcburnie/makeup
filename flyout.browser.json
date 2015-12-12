@@ -1,0 +1,6 @@
+{
+    "dependencies": [
+        "./flyout/jquery-button-flyout/jquery.buttonflyout.js",
+        "./flyout/jquery-link-flyout/jquery.linkflyout.js"
+    ]
+}
