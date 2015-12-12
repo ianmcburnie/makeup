@@ -22,3 +22,9 @@
 [submodule "core/jquery-prevent-document-scroll-keys"]
 	path = core/jquery-prevent-document-scroll-keys
 	url = https://github.com/ianmcburnie/jquery-prevent-document-scroll-keys.git
+[submodule "core/jquery-keyboard-trap"]
+	path = core/jquery-keyboard-trap
+	url = https://github.com/ianmcburnie/jquery-keyboard-trap.git
+[submodule "core/jquery-screenreader-trap"]
+	path = core/jquery-screenreader-trap
+	url = https://github.com/ianmcburnie/jquery-screenreader-trap.git
