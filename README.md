@@ -19,3 +19,15 @@ Collection of jQuery plugins for common accessibility patterns.
 
 * [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
 * [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
+
+## Development
+
+No actual development happens in this repo. It is simply a collection of git submodules.
+
+Every time a submodule receives an update, we need to run through the following steps:
+
+* Run `git submodule update --remote --merge` to update all submodules to latest commit
+* Run `git push` to commit changes to GitHub
+* Run `npm version patch|minor|major` to increment package version and create git tag
+* Run `git push origin vX.X.X` to push tag to GitHub
+* Run `npm publish` to publish package to NPM
