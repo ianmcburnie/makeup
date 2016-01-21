@@ -3,6 +3,7 @@
         "./core/jquery-next-id/jquery.nextid.js",
         "./core/jquery-focus-exit/jquery.focusexit.js",
         "./core/jquery-mouse-exit/jquery.mouseexit.js",
+        "./core/jquery-common-keydown/jquery.commonkeydown.js",
         "./core/jquery-common-keys/jquery.commonkeys.js",
         "./core/jquery-roving-tabindex/jquery.rovingtabindex.js",
         "./core/jquery-active-descendant/jquery.activedescendant.js",
