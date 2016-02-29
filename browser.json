@@ -1,6 +1,17 @@
 {
     "dependencies": [
-        "./core.browser.json",
-        "./flyout.browser.json"
+        "./jquery-next-id/jquery.nextid.js",
+        "./jquery-focus-exit/jquery.focusexit.js",
+        "./jquery-mouse-exit/jquery.mouseexit.js",
+        "./jquery-common-keydown/jquery.commonkeydown.js",
+        "./jquery-common-keys/jquery.commonkeys.js",
+        "./jquery-roving-tabindex/jquery.rovingtabindex.js",
+        "./jquery-active-descendant/jquery.activedescendant.js",
+        "./jquery-focusable/jquery.focusable.js",
+        "./jquery-prevent-document-scroll-keys/jquery.preventdocumentscrollkeys.js",
+        "./jquery-keyboard-trap/jquery.keyboardtrap.js",
+        "./jquery-screenreader-trap/jquery.screenreadertrap.js",
+        "./jquery-button-flyout/jquery.buttonflyout.js",
+        "./jquery-link-flyout/jquery.linkflyout.js"
     ]
 }

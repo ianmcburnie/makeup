@@ -1,39 +1,39 @@
-[submodule "core/jquery-next-id"]
-	path = core/jquery-next-id
+[submodule "jquery-next-id"]
+	path = jquery-next-id
 	url = https://github.com/ianmcburnie/jquery-next-id.git
-[submodule "core/jquery-focus-exit"]
-	path = core/jquery-focus-exit
+[submodule "jquery-focus-exit"]
+	path = jquery-focus-exit
 	url = https://github.com/ianmcburnie/jquery-focus-exit.git
-[submodule "core/jquery-common-keydown"]
-	path = core/jquery-common-keydown
+[submodule "jquery-common-keydown"]
+	path = jquery-common-keydown
 	url = https://github.com/ianmcburnie/jquery-common-keydown
-[submodule "core/jquery-common-keys"]
-	path = core/jquery-common-keys
+[submodule "jquery-common-keys"]
+	path = jquery-common-keys
 	url = https://github.com/ianmcburnie/jquery-common-keys.git
-[submodule "core/jquery-roving-tabindex"]
-	path = core/jquery-roving-tabindex
+[submodule "jquery-roving-tabindex"]
+	path = jquery-roving-tabindex
 	url = https://github.com/ianmcburnie/jquery-roving-tabindex.git
-[submodule "core/jquery-focusable"]
-	path = core/jquery-focusable
+[submodule "jquery-focusable"]
+	path = jquery-focusable
 	url = https://github.com/ianmcburnie/jquery-focusable.git
-[submodule "core/jquery-active-descendant"]
-	path = core/jquery-active-descendant
+[submodule "jquery-active-descendant"]
+	path = jquery-active-descendant
 	url = https://github.com/ianmcburnie/jquery-active-descendant.git
-[submodule "core/jquery-mouse-exit"]
-	path = core/jquery-mouse-exit
+[submodule "jquery-mouse-exit"]
+	path = jquery-mouse-exit
 	url = https://github.com/ianmcburnie/jquery-mouse-exit.git
-[submodule "core/jquery-prevent-document-scroll-keys"]
-	path = core/jquery-prevent-document-scroll-keys
+[submodule "jquery-prevent-document-scroll-keys"]
+	path = prevent-document-scroll-keys
 	url = https://github.com/ianmcburnie/jquery-prevent-document-scroll-keys.git
-[submodule "core/jquery-keyboard-trap"]
-	path = core/jquery-keyboard-trap
+[submodule "jquery-keyboard-trap"]
+	path = jquery-keyboard-trap
 	url = https://github.com/ianmcburnie/jquery-keyboard-trap.git
-[submodule "core/jquery-screenreader-trap"]
-	path = core/jquery-screenreader-trap
+[submodule "jquery-screenreader-trap"]
+	path = jquery-screenreader-trap
 	url = https://github.com/ianmcburnie/jquery-screenreader-trap.git
-[submodule "flyout/jquery-button-flyout"]
-	path = flyout/jquery-button-flyout
+[submodule "jquery-button-flyout"]
+	path = jquery-button-flyout
 	url = https://github.com/ianmcburnie/jquery-button-flyout.git
-[submodule "flyout/jquery-link-flyout"]
-	path = flyout/jquery-link-flyout
+[submodule "jquery-link-flyout"]
+	path = jquery-link-flyout
 	url = https://github.com/ianmcburnie/jquery-link-flyout.git

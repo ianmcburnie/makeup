@@ -2,8 +2,6 @@
 
 Collection of jQuery plugins for common accessibility patterns.
 
-## @ebay/makeup/core
-
 * [jquery-next-id](https://github.com/ianmcburnie/jquery-next-id)
 * [jquery-focus-exit](https://github.com/ianmcburnie/jquery-focus-exit)
 * [jquery-mouse-exit](https://github.com/ianmcburnie/jquery-mouse-exit)
@@ -15,11 +13,6 @@ Collection of jQuery plugins for common accessibility patterns.
 * [jquery-prevent-document-scroll-keys](https://github.com/ianmcburnie/jquery-prevent-document-scroll-keys)
 * [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
-
-## @ebay/makeup/flyout
-
-* [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
-* [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
 
 ## Development
 
@@ -33,4 +26,4 @@ Every time a submodule receives an update, we need to run through the following 
 * Run `git push origin vX.X.X` to push tag to GitHub
 * Run `npm publish` to publish package to NPM
 
-To add a new submodule, run `git submodule add https://github.com/theorg/theproject` in the appropriate subdirectory.
+To add a new submodule, run `git submodule add https://github.com/theorg/theproject` in the project root directory.
