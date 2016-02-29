@@ -23,7 +23,7 @@
 	path = jquery-mouse-exit
 	url = https://github.com/ianmcburnie/jquery-mouse-exit.git
 [submodule "jquery-prevent-document-scroll-keys"]
-	path = prevent-document-scroll-keys
+	path = jquery-prevent-document-scroll-keys
 	url = https://github.com/ianmcburnie/jquery-prevent-document-scroll-keys.git
 [submodule "jquery-keyboard-trap"]
 	path = jquery-keyboard-trap
