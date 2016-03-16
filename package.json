@@ -1,5 +1,5 @@
 {
-  "name": "@ebay/makeup",
+  "name": "makeup-ebay",
   "version": "0.13.1",
   "description": "Collection of jQuery plugins for common accessibility patterns",
   "repository": {
@@ -11,5 +11,20 @@
   "bugs": {
     "url": "https://github.com/ianmcburnie/makeup/issues"
   },
-  "homepage": "https://github.com/ianmcburnie/makeup#readme"
+  "homepage": "https://github.com/ianmcburnie/makeup#readme",
+  "dependencies": {
+      "jquery": ">=1.11 < 3",
+      "jquery-next-id": "~0.0.0",
+      "jquery-common-keydown": "~0.0.0",
+      "jquery-focusable": "~0.2.0",
+      "jquery-focus-exit": "~0.1.0",
+      "jquery-mouse-exit": "~0.1.0",
+      "jquery-prevent-document-scroll-keys": "~0.3.0",
+      "jquery-active-descendant": "~0.9.0",
+      "jquery-roving-tabindex": "~0.7.0",
+      "jquery-keyboard-trap": "~0.2.0",
+      "jquery-screenreader-trap": "~0.2.0",
+      "jquery-link-flyout": "~0.4.0",
+      "jquery-button-flyout": "~0.5.0"
+  }
 }
