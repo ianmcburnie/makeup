@@ -12,6 +12,7 @@
         "jquery-keyboard-trap",
         "jquery-screenreader-trap",
         "jquery-button-flyout",
-        "jquery-link-flyout"
+        "jquery-link-flyout",
+        "jquery-menu"
     ]
 }
