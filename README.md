@@ -13,6 +13,13 @@ Collection of jQuery plugins for common accessibility patterns:
 * [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
 
+Highly experimental:
+
+* [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
+* [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
+* [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
+* [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
+
 ## Install
 
 `npm install makeup-ebay`

@@ -13,6 +13,7 @@
         "jquery-screenreader-trap",
         "jquery-button-flyout",
         "jquery-link-flyout",
-        "jquery-menu"
+        "jquery-menu",
+        "jquery-tabs"
     ]
 }
