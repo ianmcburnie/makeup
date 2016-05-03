@@ -19,6 +19,7 @@ Highly experimental:
 * [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
 * [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
 * [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
+* [jquery-dialog](https://github.com/ianmcburnie/jquery-dialog)
 
 ## Install
 
