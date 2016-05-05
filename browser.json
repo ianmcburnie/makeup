@@ -11,10 +11,12 @@
         "jquery-prevent-document-scroll-keys",
         "jquery-keyboard-trap",
         "jquery-screenreader-trap",
+        "jquery-stick",
         "jquery-button-flyout",
         "jquery-link-flyout",
         "jquery-menu",
         "jquery-tabs",
-        "jquery-dialog"
+        "jquery-dialog",
+        "jquery-tooltip"
     ]
 }
