@@ -37,6 +37,6 @@
     "jquery-menu": "~0.0.1",
     "jquery-tabs": "~0.0.1",
     "jquery-dialog": "~0.0.1",
-    "jquery-tooltip": "~0.0.2"
+    "jquery-tooltip": "~0.0.3"
   }
 }
