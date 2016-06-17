@@ -12,7 +12,6 @@ Collection of jQuery plugins for common accessibility patterns:
 * [jquery-active-descendant](https://github.com/ianmcburnie/jquery-active-descendant)
 * [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
-* [jquery-stick](https://github.com/ianmcburnie/jquery-stick)
 
 Highly experimental:
 
@@ -22,6 +21,7 @@ Highly experimental:
 * [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
 * [jquery-dialog](https://github.com/ianmcburnie/jquery-dialog)
 * [jquery-tooltip](https://github.com/ianmcburnie/jquery-tooltip)
+* [jquery-stick](https://github.com/ianmcburnie/jquery-stick)
 
 ## Install
 
