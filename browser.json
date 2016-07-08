@@ -17,6 +17,7 @@
         "jquery-menu",
         "jquery-tabs",
         "jquery-dialog",
-        "jquery-tooltip"
+        "jquery-tooltip",
+        "jquery-linear-navigation"
     ]
 }

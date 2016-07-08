@@ -15,6 +15,7 @@ Collection of jQuery plugins for common accessibility patterns:
 
 Highly experimental:
 
+* [jquery-linear-navigation](https://github.com/ianmcburnie/jquery-linear-navigation)
 * [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
 * [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
 * [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
