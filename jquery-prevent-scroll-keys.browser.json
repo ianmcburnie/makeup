@@ -1,0 +1,5 @@
+{
+    "dependencies":[
+        "jquery-prevent-scroll-keys"
+    ]
+}

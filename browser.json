@@ -8,7 +8,7 @@
         "jquery-roving-tabindex",
         "jquery-active-descendant",
         "jquery-focusable",
-        "jquery-prevent-document-scroll-keys",
+        "jquery-prevent-scroll-keys",
         "jquery-keyboard-trap",
         "jquery-screenreader-trap",
         "jquery-stick",
