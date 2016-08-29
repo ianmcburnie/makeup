@@ -24,21 +24,21 @@
     "jquery-next-id": "~0.1.0",
     "jquery-common-keydown": "~0.2.0",
     "jquery-focusable": "~0.3.0",
-    "jquery-focus-exit": "~0.2.0",
+    "jquery-focus-exit": "~0.3.0",
     "jquery-linear-navigation": "~0.0.3",
     "jquery-mouse-exit": "~0.2.0",
     "jquery-prevent-scroll-keys": "~0.5.0",
     "jquery-active-descendant": "~0.12.0",
     "jquery-roving-tabindex": "~0.9.0",
-    "jquery-keyboard-trap": "~0.3.0",
+    "jquery-keyboard-trap": "~0.4.0",
     "jquery-screenreader-trap": "~0.3.0",
     "jquery-stick": "~0.1.0",
-    "jquery-link-flyout": "~0.6.0",
-    "jquery-button-flyout": "~0.7.0",
-    "jquery-menu": "~0.2.2",
+    "jquery-link-flyout": "~0.6.1",
+    "jquery-button-flyout": "~0.7.1",
+    "jquery-menu": "~0.2.3",
     "jquery-tabs": "~0.2.2",
-    "jquery-dialog": "~0.2.0",
-    "jquery-tooltip": "~0.1.0"
+    "jquery-dialog": "~0.2.1",
+    "jquery-tooltip": "~0.1.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
