@@ -1,6 +1,6 @@
 # Makeup
 
-Collection of jQuery plugins for common accessibility patterns:
+Curated collection of jQuery plugins for common accessibility patterns.
 
 * [jquery-next-id](https://github.com/ianmcburnie/jquery-next-id)
 * [jquery-focusable](https://github.com/ianmcburnie/jquery-focusable)
@@ -14,7 +14,7 @@ Collection of jQuery plugins for common accessibility patterns:
 * [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
 
-Highly experimental:
+Experimental:
 
 * [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
 * [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
@@ -30,9 +30,27 @@ Highly experimental:
 
 ## Bundling
 
-Compatible with [Lasso](https://github.com/lasso-js/lasso). Specify `makeup-ebay` in your  JSON file:
+This package is configured to work with the <a href="https://github.com/lasso-js/lasso">LassoJS</a> JavaScript module bundler. LassoJS allows you to easily bundle only the plugins that you require into your frontend payload.
+
+Example browser.json:
 
 ```js
+// browser.json
+{
+  {
+    "dependencies":[
+      "makeup-ebay/jquery-focusable",
+      "makeup-ebay/jquery-keyboard-trap",
+      "makeup-ebay/jquery-screenreader-trap"
+    ]
+  }
+}
+```
+
+Alternatively, to include the entire suite of modules (only recommended for development/prototyping), specify `makeup-ebay`:
+
+```js
+// browser.json
 {
   {
     "dependencies":[
@@ -42,6 +60,6 @@ Compatible with [Lasso](https://github.com/lasso-js/lasso). Specify `makeup-ebay
 }
 ```
 
-## Development
+## Development / Contributing
 
 No actual development happens in this repo. It is simply a collection of dependencies.
