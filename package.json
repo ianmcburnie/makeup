@@ -34,9 +34,9 @@
     "jquery-keyboard-trap": "~0.4",
     "jquery-screenreader-trap": "~0.3",
     "jquery-stick": "~0.1",
-    "jquery-link-flyout": ">=0.6.2",
-    "jquery-button-flyout": ">=0.7.2",
-    "jquery-menu": "~0.4",
+    "jquery-link-flyout": "~0.7",
+    "jquery-button-flyout": "~0.8",
+    "jquery-menu": "~0.5",
     "jquery-tabs": "~0.3",
     "jquery-dialog": ">=0.2.2",
     "jquery-tooltip": "~0.1"
