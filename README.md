@@ -1,29 +1,33 @@
 # Makeup
 
-Curated collection of jQuery plugins for common accessibility patterns.
+Curated collection of experimental jQuery plugins for common accessibility patterns.
 
-* [jquery-next-id](https://github.com/ianmcburnie/jquery-next-id)
+* [jquery-active-descendant](https://github.com/ianmcburnie/jquery-active-descendant)
+* [jquery-click-flyout](https://github.com/ianmcburnie/jquery-click-flyout)
+* [jquery-common-keydown](https://github.com/ianmcburnie/jquery-common-keydown)
 * [jquery-focusable](https://github.com/ianmcburnie/jquery-focusable)
 * [jquery-focus-exit](https://github.com/ianmcburnie/jquery-focus-exit)
-* [jquery-mouse-exit](https://github.com/ianmcburnie/jquery-mouse-exit)
-* [jquery-common-keydown](https://github.com/ianmcburnie/jquery-common-keydown)
-* [jquery-prevent-scroll-keys](https://github.com/ianmcburnie/jquery-prevent-scroll-keys)
+* [jquery-focus-flyout](https://github.com/ianmcburnie/jquery-focus-flyout)
 * [jquery-grid-navigation](https://github.com/ianmcburnie/jquery-grid-navigation)
-* [jquery-linear-navigation](https://github.com/ianmcburnie/jquery-linear-navigation)
-* [jquery-roving-tabindex](https://github.com/ianmcburnie/jquery-roving-tabindex)
-* [jquery-active-descendant](https://github.com/ianmcburnie/jquery-active-descendant)
+* [jquery-hover-flyout](https://github.com/ianmcburnie/jquery-hover-flyout)
 * [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
+* [jquery-linear-navigation](https://github.com/ianmcburnie/jquery-linear-navigation)
+* [jquery-mouse-exit](https://github.com/ianmcburnie/jquery-mouse-exit)
+* [jquery-next-id](https://github.com/ianmcburnie/jquery-next-id)
+* [jquery-prevent-scroll-keys](https://github.com/ianmcburnie/jquery-prevent-scroll-keys)
+* [jquery-roving-tabindex](https://github.com/ianmcburnie/jquery-roving-tabindex)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
 
-Experimental:
+Highly Experimental:
 
-* [jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)
-* [jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)
-* [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
-* [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
+* <strike>[jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)</strike> (removed in v0.21.0)
 * [jquery-dialog](https://github.com/ianmcburnie/jquery-dialog)
+* [jquery-hijax-button](https://github.com/ianmcburnie/jquery-hijax-button)
+* <strike>[jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)</strike> (removed in v0.21.0)
+* [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
+* [jquery-stick](https://github.com/ianmcburnie/jquery-stick) (considering removal)
+* [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
 * [jquery-tooltip](https://github.com/ianmcburnie/jquery-tooltip)
-* [jquery-stick](https://github.com/ianmcburnie/jquery-stick)
 
 ## Install
 
