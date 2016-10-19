@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ianmcburnie/makeup#readme",
   "dependencies": {
     "jquery": ">=1.11",
-    "jquery-active-descendant": "~0.14",
+    "jquery-active-descendant": "~0.15",
     "jquery-click-flyout": "~0.0",
     "jquery-common-keydown": "~0.3",
     "jquery-dialog": ">=0.2.2",
