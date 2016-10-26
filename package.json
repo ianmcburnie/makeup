@@ -41,7 +41,7 @@
     "jquery-screenreader-trap": "~0.3",
     "jquery-stick": "~0.1",
     "jquery-tabs": "~0.4",
-    "jquery-tooltip": "~0.1"
+    "jquery-tooltip": "~0.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
