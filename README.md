@@ -20,12 +20,9 @@ Curated collection of experimental jQuery plugins for common accessibility patte
 
 Highly Experimental:
 
-* <strike>[jquery-button-flyout](https://github.com/ianmcburnie/jquery-button-flyout)</strike> (removed in v0.21.0)
 * [jquery-dialog](https://github.com/ianmcburnie/jquery-dialog)
 * [jquery-hijax-button](https://github.com/ianmcburnie/jquery-hijax-button)
-* <strike>[jquery-link-flyout](https://github.com/ianmcburnie/jquery-link-flyout)</strike> (removed in v0.21.0)
 * [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
-* [jquery-stick](https://github.com/ianmcburnie/jquery-stick) (considering removal)
 * [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
 * [jquery-tooltip](https://github.com/ianmcburnie/jquery-tooltip)
 
