@@ -39,6 +39,7 @@
     "jquery-prevent-scroll-keys": ">=0.5.1",
     "jquery-roving-tabindex": "~0.12",
     "jquery-screenreader-trap": "~0.3",
+    "jquery-skip-to": "~0.0",
     "jquery-tabs": ">=0.4.3",
     "jquery-tooltip": "~0.2"
   },

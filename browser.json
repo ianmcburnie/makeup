@@ -19,6 +19,7 @@
         "jquery-prevent-scroll-keys",
         "jquery-roving-tabindex",
         "jquery-screenreader-trap",
+        "jquery-skip-to",
         "jquery-tabs",
         "jquery-tooltip"
     ]

@@ -17,6 +17,7 @@ Curated collection of experimental jQuery plugins for common accessibility patte
 * [jquery-prevent-scroll-keys](https://github.com/ianmcburnie/jquery-prevent-scroll-keys)
 * [jquery-roving-tabindex](https://github.com/ianmcburnie/jquery-roving-tabindex)
 * [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
+* [jquery-skip-to](https://github.com/ianmcburnie/jquery-skip-to)
 
 Highly Experimental:
 
