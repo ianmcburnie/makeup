@@ -1,31 +1,35 @@
-# Makeup
+# makeup-ebay (DEPRECATED)
+
+The `makeup-ebay` package is **deprecated**. It has been renamed to `makeup-jquery`. Please update your package dependency references in order to ensure latest updates.
+
+## Description
 
 Curated collection of experimental jQuery plugins for common accessibility patterns.
 
-* [jquery-active-descendant](https://github.com/ianmcburnie/jquery-active-descendant)
-* [jquery-click-flyout](https://github.com/ianmcburnie/jquery-click-flyout)
-* [jquery-common-keydown](https://github.com/ianmcburnie/jquery-common-keydown)
-* [jquery-focusable](https://github.com/ianmcburnie/jquery-focusable)
-* [jquery-focus-exit](https://github.com/ianmcburnie/jquery-focus-exit)
-* [jquery-focus-flyout](https://github.com/ianmcburnie/jquery-focus-flyout)
-* [jquery-grid-navigation](https://github.com/ianmcburnie/jquery-grid-navigation)
-* [jquery-hover-flyout](https://github.com/ianmcburnie/jquery-hover-flyout)
-* [jquery-keyboard-trap](https://github.com/ianmcburnie/jquery-keyboard-trap)
-* [jquery-linear-navigation](https://github.com/ianmcburnie/jquery-linear-navigation)
-* [jquery-mouse-exit](https://github.com/ianmcburnie/jquery-mouse-exit)
-* [jquery-next-id](https://github.com/ianmcburnie/jquery-next-id)
-* [jquery-prevent-scroll-keys](https://github.com/ianmcburnie/jquery-prevent-scroll-keys)
-* [jquery-roving-tabindex](https://github.com/ianmcburnie/jquery-roving-tabindex)
-* [jquery-screenreader-trap](https://github.com/ianmcburnie/jquery-screenreader-trap)
-* [jquery-skip-to](https://github.com/ianmcburnie/jquery-skip-to)
+* [jquery-active-descendant](https://github.com/makeup-jquery/jquery-active-descendant)
+* [jquery-common-keydown](https://github.com/makeup-jquery/jquery-common-keydown)
+* [jquery-focusable](https://github.com/makeup-jquery/jquery-focusable)
+* [jquery-focus-exit](https://github.com/makeup-jquery/jquery-focus-exit)
+* [jquery-grid-navigation](https://github.com/makeup-jquery/jquery-grid-navigation)
+* [jquery-keyboard-trap](https://github.com/makeup-jquery/jquery-keyboard-trap)
+* [jquery-linear-navigation](https://github.com/makeup-jquery/jquery-linear-navigation)
+* [jquery-mouse-exit](https://github.com/makeup-jquery/jquery-mouse-exit)
+* [jquery-next-id](https://github.com/makeup-jquery/jquery-next-id)
+* [jquery-prevent-scroll-keys](https://github.com/makeup-jquery/jquery-prevent-scroll-keys)
+* [jquery-roving-tabindex](https://github.com/makeup-jquery/jquery-roving-tabindex)
+* [jquery-screenreader-trap](https://github.com/makeup-jquery/jquery-screenreader-trap)
 
-Highly Experimental:
+Experimental:
 
-* [jquery-dialog](https://github.com/ianmcburnie/jquery-dialog)
-* [jquery-hijax-button](https://github.com/ianmcburnie/jquery-hijax-button)
-* [jquery-menu](https://github.com/ianmcburnie/jquery-menu)
-* [jquery-tabs](https://github.com/ianmcburnie/jquery-tabs)
-* [jquery-tooltip](https://github.com/ianmcburnie/jquery-tooltip)
+* [jquery-click-flyout](https://github.com/makeup-jquery/jquery-click-flyout)
+* [jquery-dialog](https://github.com/makeup-jquery/jquery-dialog)
+* [jquery-focus-flyout](https://github.com/makeup-jquery/jquery-focus-flyout)
+* [jquery-hijax-button](https://github.com/makeup-jquery/jquery-hijax-button)
+* [jquery-hover-flyout](https://github.com/makeup-jquery/jquery-hover-flyout)
+* [jquery-menu](https://github.com/makeup-jquery/jquery-menu)
+* [jquery-skip-to](https://github.com/makeup-jquery/jquery-skip-to)
+* [jquery-tabs](https://github.com/makeup-jquery/jquery-tabs)
+* [jquery-tooltip](https://github.com/makeup-jquery/jquery-tooltip)
 
 ## Install
 
