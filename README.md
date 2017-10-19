@@ -1,10 +1,6 @@
-# makeup-ebay (DEPRECATED)
+# makeup-jquery
 
-The `makeup-ebay` package is **deprecated**. It has been renamed to `makeup-jquery`. Please update your package dependency references in order to ensure latest updates.
-
-## Description
-
-Curated collection of experimental jQuery plugins for common accessibility patterns.
+Seed module containing the full collection of makeup jQuery plugins for common accessibility patterns.
 
 * [jquery-active-descendant](https://github.com/makeup-jquery/jquery-active-descendant)
 * [jquery-common-keydown](https://github.com/makeup-jquery/jquery-common-keydown)
@@ -33,7 +29,7 @@ Experimental:
 
 ## Install
 
-`npm install makeup-ebay`
+`npm install makeup-jquery`
 
 ## Bundling
 
@@ -46,22 +42,22 @@ Example browser.json:
 {
   {
     "dependencies":[
-      "makeup-ebay/jquery-focusable",
-      "makeup-ebay/jquery-keyboard-trap",
-      "makeup-ebay/jquery-screenreader-trap"
+      "makeup-jquery/jquery-focusable",
+      "makeup-jquery/jquery-keyboard-trap",
+      "makeup-jquery/jquery-screenreader-trap"
     ]
   }
 }
 ```
 
-Alternatively, to include the entire suite of modules (only recommended for development/prototyping), specify `makeup-ebay`:
+Alternatively, to include the entire suite of modules (only recommended for development/prototyping), specify `makeup-jquery`:
 
 ```js
 // browser.json
 {
   {
     "dependencies":[
-      "makeup-ebay"
+      "makeup-jquery"
     ]
   }
 }

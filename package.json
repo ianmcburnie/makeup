@@ -1,10 +1,10 @@
 {
-  "name": "makeup-ebay",
-  "version": "0.27.1",
-  "description": "Curated collection of jQuery plugins for common accessibility patterns.",
+  "name": "makeup-jquery",
+  "version": "0.0.1",
+  "description": "Seed module containing the full collection of makeup jQuery plugins for common accessibility patterns.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmcburnie/makeup.git"
+    "url": "git+https://github.com/makeup-jquery/makeup-jquery.git"
   },
   "author": "Ian McBurnie <ianmcburnie@hotmail.com>",
   "license": "MIT",
